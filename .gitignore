@@ -1,0 +1,7 @@
+.DS_Store
+*.avi
+*.mp4
+*.wav
+*.pyc
+gcloud-cert.json
+/assets/*
